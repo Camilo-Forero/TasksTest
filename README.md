@@ -13,7 +13,7 @@
 <p>Se uso SQLite para mas facilidad, al inicializarce el archivo "sql_app.db" que es la base de datos queda en un folde llamado data y por ello persiste la informacion</p>
 <h2>Frontend</h2>
 <p>Se uso React y bootstrap para los diseños, se hacen con las validaciones imbuidas de HTML5</p>
-<h3>instrucciones de arranque<h3>
+<h3>instrucciones de arranque</h3>
 <ul>
     <li>clonar el repositorio, en el vienen incluido tanto el backend como el frontend</li>
     <li>correr el comando: <b>docker compose up --build</b> o <b>docker-compose up --build</b></li>
