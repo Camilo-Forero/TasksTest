@@ -1,10 +1,11 @@
 <h1>Tasks Test</h1>
-<p>This is a test proyect to show the use of react and fastAPI it got the basic functionality of a CRUD so it can:</p>
+<p>Este es un proyecto para mostrar un CRUD con React en el front end y python en el backend.</p>
+<p>Es un simple programa que se encarga de permitir llevar tareas de forma ordenada que permite:</p>
 <ul>
-    <li>Create new tasks</li>
-    <li>List tasks</li>
-    <li>Update new tasks</li>
-    <li>Delete new tasks</li>
+    <li>Crear nuevas tareas</li>
+    <li>Listar tareas</li>
+    <li>Actualizar tareas</li>
+    <li>Eliminar tareas</li>
 </ul>
 <h2>Backend</h2>
 <p>las tecnologia utilizadas son: python con fastAPI y SQLalchemy como ORM. Tambien en el app.py se agrego una especie de migración con ello la tabla de estados esta inicializada junto con la de tareas </p>
