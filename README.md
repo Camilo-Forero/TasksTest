@@ -17,3 +17,11 @@
     <li>clonar el repositorio, en el vienen incluido tanto el backend como el frontend</li>
     <li>correr el comando: <b>docker compose up --build</b> o <b>docker-compose up --build</b></li>
 </ul>
+<h3>End points:</h3>
+<ul>
+    <li>GET /api/todos</li>
+    <li>GET /api/todos/:id </li>
+    <li>POST /api/todos</li>
+    <li>PUT /api/todos/:id</li>
+    <li>DELTE /api/todos/:id</li>
+</ul>
