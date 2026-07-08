@@ -11,7 +11,7 @@
 <p>las tecnologia utilizadas son: python con fastAPI y SQLalchemy como ORM. Tambien en el app.py se agrego una especie de migración con ello la tabla de estados esta inicializada junto con la de tareas </p>
 <h2>DB</h2>
 <p>Se uso SQLite para mas facilidad, al inicializarce el archivo "sql_app.db" que es la base de datos queda en un folde llamado data y por ello persiste la informacion</p>
-<h2>Frontend<h2>
+<h2>Frontend</h2>
 <p>Se uso React y bootstrap para los diseños, se hacen con las validaciones imbuidas de HTML5</p>
 <h3>instrucciones de arranque<h3>
 <ul>
