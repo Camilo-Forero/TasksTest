@@ -17,6 +17,8 @@
 <ul>
     <li>clonar el repositorio, en el vienen incluido tanto el backend como el frontend</li>
     <li>correr el comando: <b>docker compose up --build</b> o <b>docker-compose up --build</b></li>
+    <li>Para usarlo http://localhost:5173</li>
+    <li>API URL http://localhost:8000</li>
 </ul>
 <h3>End points:</h3>
 <ul>
